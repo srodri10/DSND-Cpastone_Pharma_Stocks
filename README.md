@@ -13,15 +13,15 @@ After looking at the trading parameters, I am going forward in my analysis of st
 Installations:
 Inorder to get the stock market information you need to pip install yfinance
 
-pip install yfinance
+pip install yfinance (https://github.com/ranaroussi/yfinance or https://pypi.org/project/yfinance/)
 
 My project is using the following libraries:
 
-pandas
-numpy
-random
-matplotlib
-datetime
-tqdm
-sklearn
-statsmodels
+pandas  
+numpy  
+random  
+matplotlib  
+datetime  
+tqdm  
+sklearn  
+statsmodels  
