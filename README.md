@@ -1,5 +1,7 @@
 # DSND-Cpastone_Pharma_Stocks
 
+![ScreenShot](/images/Vaccine_V1.jpg)
+
 ## Project Overview:
 
 In my capstone project I am exploring the movements of stock prices creating traditional finantial varialbes (MACD, RSI, Rolling Averages) and applying some machine learning technics, trying to predict the movements of stock prices only for educational reasons
