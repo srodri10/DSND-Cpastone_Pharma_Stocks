@@ -1,5 +1,7 @@
 # DSND-Cpastone_Pharma_Stocks
 
+![Vaccine_V1](https://user-images.githubusercontent.com/46485715/110025790-2229d080-7d30-11eb-8090-9fc90969d12d.jpg)
+
 
 
 ## Project Overview:
