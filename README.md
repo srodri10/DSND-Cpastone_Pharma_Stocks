@@ -21,7 +21,8 @@ pandas
 numpy  
 random  
 matplotlib  
-datetime  
-tqdm  
+seaborn
+torch
 sklearn  
-statsmodels  
+ploty
+ 
