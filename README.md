@@ -29,4 +29,14 @@ seaborn
 torch
 sklearn  
 ploty
+
+
+## Summary:
+In my research I create financial varibles in order to see the evolution, returns, volatility of the stock prices and also I tried to use Deep Learning Models looking for a prediction of these values or at least a prediction for the movements considering the risk of overfitting in this kind of exercises.
+
+Comparing the performance and results between LSTM and GRU Networks show GRU as the winner in both cases
+
+
+
+
  
