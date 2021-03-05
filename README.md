@@ -36,6 +36,10 @@ In my research I create financial varibles in order to see the evolution, return
 
 Comparing the performance and results between LSTM and GRU Networks show GRU as the winner in both cases
 
+LSTM Results:
+
+![Result_LSTM_Pfizer_V0](https://user-images.githubusercontent.com/46485715/110108226-30b5cd80-7dac-11eb-91f7-e2c3e081f75f.png)
+
 
 
 
