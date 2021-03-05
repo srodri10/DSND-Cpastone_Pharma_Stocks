@@ -59,4 +59,10 @@ Comparing the performance and results between LSTM and GRU Networks show GRU as 
 
 ![Result_GRU_Pfizer_V0](https://user-images.githubusercontent.com/46485715/110108357-6064d580-7dac-11eb-9dba-a2b13caf2b90.png)
 
+## References:
+
+https://github.com/ranaroussi/yfinance
+https://www.investopedia.com
+https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/
+
  
