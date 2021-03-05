@@ -61,8 +61,8 @@ Comparing the performance and results between LSTM and GRU Networks show GRU as 
 
 ## References:
 
-https://github.com/ranaroussi/yfinance
-https://www.investopedia.com
-https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/
+https://github.com/ranaroussi/yfinance  
+https://www.investopedia.com  
+https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting  
 
  
