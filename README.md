@@ -14,7 +14,7 @@ First I am looking at the development of adj close stock prices by means of comp
 
 After looking at the trading parameters, I am going forward in my analysis of stock prices movements by means of machine learning models. 
 
-Installations:
+## Installations:
 Inorder to get the stock market information you need to pip install yfinance
 
 pip install yfinance (https://github.com/ranaroussi/yfinance or https://pypi.org/project/yfinance/)
