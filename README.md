@@ -60,7 +60,7 @@ Comparing the performance and results between LSTM and GRU Networks show GRU as 
 ![Result_GRU_Pfizer_V0](https://user-images.githubusercontent.com/46485715/110108357-6064d580-7dac-11eb-9dba-a2b13caf2b90.png)
 
 ## Results
-The main findings of the code can be found at the Medium blog post available here https://medium.com/p/85d9b2c9a255/edit
+The main findings of the code can be found at the Medium blog post available [here] (https://medium.com/p/85d9b2c9a255/edit)
 
 ## References:
 
