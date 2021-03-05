@@ -45,9 +45,10 @@ In my research I create financial varibles in order to see the evolution, return
 ![Evo_Rolling_AstraZeneca_V0](https://user-images.githubusercontent.com/46485715/110109036-3829a680-7dad-11eb-80d0-42fe17944ce3.png)
 
 
-Comparing the performance and results between LSTM and GRU Networks show GRU as the winner in both cases
+
 
 ### Deep Learning:
+Comparing the performance and results between LSTM and GRU Networks show GRU as the winner in both cases
 
 #### LSTM Results:
 
