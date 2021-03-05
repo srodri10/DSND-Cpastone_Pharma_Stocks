@@ -34,14 +34,27 @@ ploty
 ## Summary:
 In my research I create financial varibles in order to see the evolution, returns, volatility of the stock prices and also I tried to use Deep Learning Models looking for a prediction of these values or at least a prediction for the movements considering the risk of overfitting in this kind of exercises.
 
+### Evolution and Volatility:
+
+#### Pfizer Evolution
+
+![Evo_Rolling_Pfizer_V1](https://user-images.githubusercontent.com/46485715/110109017-3233c580-7dad-11eb-91cf-21318f0c83e3.png)
+
+#### Astra Zeneca Evolution:
+
+![Evo_Rolling_AstraZeneca_V0](https://user-images.githubusercontent.com/46485715/110109036-3829a680-7dad-11eb-80d0-42fe17944ce3.png)
+
+
 Comparing the performance and results between LSTM and GRU Networks show GRU as the winner in both cases
 
-### LSTM Results:
+### Deep Learning:
+
+#### LSTM Results:
 
 ![Result_LSTM_Pfizer_V0](https://user-images.githubusercontent.com/46485715/110108226-30b5cd80-7dac-11eb-91f7-e2c3e081f75f.png)
 
 
-### GRU Results, with same hyperparameters:
+#### GRU Results, with same hyperparameters:
 
 ![Result_GRU_Pfizer_V0](https://user-images.githubusercontent.com/46485715/110108357-6064d580-7dac-11eb-9dba-a2b13caf2b90.png)
 
