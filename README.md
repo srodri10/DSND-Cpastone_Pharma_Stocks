@@ -32,7 +32,11 @@ ploty
 
 
 ## Summary:
-In my research I create financial varibles in order to see the evolution, returns, volatility of the stock prices and also I tried to use Deep Learning Models looking for a prediction of these values or at least a prediction for the movements considering the risk of overfitting in this kind of exercises.
+
+In my research I tried to understand  stock prices movements based on technical indicators (Returns, MACD and Signal, Rolling mean and standard deviation, RSI ) . The objetive was to know the main trading parameters within the finantial environment and see the evolution during these last months for main pharma companies with Covid19 vaccine
+On the other hand I tried to apply some deep learning models for stock prices of two of these pharma comapanies since it seems that they are working really well on time series analysis of other kind of fileds.
+I've learnt the importance to normalize data before use a LSTM or GRU models (Recommendation from many sources si to use a range between -1 and +1) and also the possbility we have to make predictions for one day (many to one) or for many days (many to many) but in any case I need to have more knowledge about this topic if my goal was to invest my money based on my analysis/models.
+Taking into account all this and based on RMSE and processing time I have the best results with GRU architecture comparing with LSTM
 
 ### Evolution and Volatility:
 
@@ -61,6 +65,13 @@ Comparing the performance and results between LSTM and GRU Networks show GRU as 
 
 ## Results
 The main findings of the code can be found at the Medium blog post available [here](https://medium.com/p/85d9b2c9a255/edit)
+
+## Improvements:
+
+In order to improve the prediction performance of the models is important to change the way I have standardized the data to train the model, only the training data have to be used to fit the scaler transformation, then the scaler is used to transform the test input data. In the models I'm sharing on this blog probabily there is a bias due to I have standarized train and test datarset.
+Avoid Overfitting .The real issue is that overfitting not only makes your model inefficient, it could make your prediction very wrong. Deep learning uses the dropout technique to control overfitting. The dropout technique randomly drops or deactivates some neurons for a layer during each iteration. It is like some weights are set to zero. So in each iteration the model looks at a slightly different structure of itself to optimize the model.   
+Do the same exercise based on Keras in order to consolidate the knowlegde about how LSTM networks work
+Try to make predictions not over "Close" but over "Returns"  
 
 ## References:
 
