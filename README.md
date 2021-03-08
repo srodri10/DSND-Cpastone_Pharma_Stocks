@@ -68,9 +68,12 @@ The main findings of the code can be found at the Medium blog post available [he
 
 ## Improvements:
 
-In order to improve the prediction performance of the models is important to change the way I have standardized the data to train the model, only the training data have to be used to fit the scaler transformation, then the scaler is used to transform the test input data. In the models I'm sharing on this blog probabily there is a bias due to I have standarized train and test datarset.
+In order to improve the prediction performance of the models is important to change the way I have standardized the data to train the model, only the training data have to be used to fit the scaler transformation, then the scaler is used to transform the test input data. In the models I'm sharing on this blog probabily there is a bias due to I have standarized train and test datarset.  
+
 Avoid Overfitting .The real issue is that overfitting not only makes your model inefficient, it could make your prediction very wrong. Deep learning uses the dropout technique to control overfitting. The dropout technique randomly drops or deactivates some neurons for a layer during each iteration. It is like some weights are set to zero. So in each iteration the model looks at a slightly different structure of itself to optimize the model.   
-Do the same exercise based on Keras in order to consolidate the knowlegde about how LSTM networks work
+
+Do the same exercise based on Keras in order to consolidate the knowlegde about how LSTM networks work  
+
 Try to make predictions not over "Close" but over "Returns"  
 
 ## References:
